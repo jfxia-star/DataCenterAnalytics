@@ -1,0 +1,1 @@
+This project showcases an AI‑augmented analytics dashboard built in Power BI, enhanced with Python‑based agents for narrative generation, recommendations, and automated maintenance audits. It demonstrates how AI can elevate data interpretation, strengthen governance, and improve dashboard maintainability.
