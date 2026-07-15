@@ -1,0 +1,82 @@
+{
+  "measures": [
+    {
+      "name": "Total Demand",
+      "expression": "SUM(Daily_Demand_MWh)",
+      "description": "Total daily demand in MWh",
+      "used_in_visuals": ["Demand Chart"]
+    },
+    {
+      "name": "Total Generation",
+      "expression": "SUM(Daily_Generation_MWh)",
+      "description": "",
+      "used_in_visuals": []
+    },
+    {
+      "name": "total_demand_mwh",
+      "expression": "SUM(Daily_Demand_MWh)",
+      "description": "Total daily electricity demand in MWh.",
+      "used_in_visuals": ["Demand Chart", "Grid Power Treemap"]
+    },
+    {
+      "name": "total_generation_mwh",
+      "expression": "SUM(Daily_Generation_MWh)",
+      "description": "Total daily electricity generation in MWh.",
+      "used_in_visuals": ["Generation Chart", "Grid Power Treemap"]
+    },
+    {
+      "name": "avg_temperature",
+      "expression": "AVERAGE(TAVG)",
+      "description": "Average daily temperature across selected stations.",
+      "used_in_visuals": ["Climate-Facility Dynamics", "Temperature Matrix"]
+    },
+    {
+      "name": "max_temperature",
+      "expression": "MAX(TMAX)",
+      "description": "Maximum daily temperature across selected stations.",
+      "used_in_visuals": ["Climate-Facility Dynamics", "Temperature Matrix"]
+    },
+    {
+      "name": "min_temperature",
+      "expression": "MIN(TMIN)",
+      "description": "Minimum daily temperature across selected stations.",
+      "used_in_visuals": ["Climate-Facility Dynamics", "Temperature Matrix"]
+    },
+    {
+      "name": "facility_count",
+      "expression": "COUNT(id)",
+      "description": "Total number of data center facilities.",
+      "used_in_visuals": ["Inventory Map"]
+    },
+    {
+      "name": "avg_facility_sqft",
+      "expression": "AVERAGE(sqft)",
+      "description": "Average square footage of facilities.",
+      "used_in_visuals": ["Inventory Map"]
+    },
+    {
+      "name": "peak_demand_mwh",
+      "expression": "MAX(Daily_Demand_MWh)",
+      "description": "Peak daily demand.",
+      "used_in_visuals": []
+    },
+    {
+      "name": "generation_to_demand_ratio",
+      "expression": "DIVIDE(SUM(Daily_Generation_MWh), SUM(Daily_Demand_MWh))",
+      "description": "Ratio of generation to demand.",
+      "used_in_visuals": ["Grid Power Treemap"]
+    },
+    {
+      "name": "temperature_variability",
+      "expression": "VAR = MAX(TMAX) - MIN(TMIN)",
+      "description": "Daily temperature variability.",
+      "used_in_visuals": []
+    },
+    {
+      "name": "unused_measure_example",
+      "expression": "SUM(value)",
+      "description": "",
+      "used_in_visuals": []
+    }
+  ]
+}

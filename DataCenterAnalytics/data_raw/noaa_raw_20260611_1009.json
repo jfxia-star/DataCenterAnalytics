@@ -1,0 +1,7011 @@
+{
+  "metadata": {
+    "resultset": {
+      "offset": 1,
+      "count": 78225,
+      "limit": 1000
+    }
+  },
+  "results": [
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440021",
+      "attributes": ",,7,0600",
+      "value": 139
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440021",
+      "attributes": ",Z,7,0600",
+      "value": 106
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 156
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 72
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 150
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 144
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": -44
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 156
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": -22
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442208",
+      "attributes": ",,7,0700",
+      "value": 139
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442208",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 189
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 33
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 167
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 144
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 172
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 39
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": 6
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 106
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 94
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444101",
+      "attributes": ",,7,1600",
+      "value": 189
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444101",
+      "attributes": ",,7,1600",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 161
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 94
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 122
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 189
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 178
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 22
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 94
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": 106
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 156
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445853",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445853",
+      "attributes": ",,7,0700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": 133
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": -28
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 100
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 161
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 89
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": -33
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446712",
+      "attributes": ",,7,0800",
+      "value": 139
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446712",
+      "attributes": ",,7,0800",
+      "value": 61
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 61
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 111
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 17
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 61
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 61
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 100
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 61
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 144
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 139
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 6
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 89
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 139
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 28
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 133
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 189
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 72
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 83
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 89
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448941",
+      "attributes": ",,7,0700",
+      "value": 156
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448941",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449025",
+      "attributes": ",,7,1700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449025",
+      "attributes": ",,7,1700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449151",
+      "attributes": ",,7,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449151",
+      "attributes": ",,7,2400",
+      "value": 72
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449186",
+      "attributes": ",,7,0700",
+      "value": 144
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449186",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449215",
+      "attributes": ",,7,0900",
+      "value": 122
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449215",
+      "attributes": ",,7,0900",
+      "value": 89
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449301",
+      "attributes": ",,7,0700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449301",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VASH",
+      "attributes": ",,U,",
+      "value": 117
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VASH",
+      "attributes": "H,,U,",
+      "value": 161
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VASH",
+      "attributes": "H,,U,",
+      "value": 89
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": ",,U,",
+      "value": 121
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": "H,,U,",
+      "value": 161
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": "H,,U,",
+      "value": 89
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": ",,U,",
+      "value": 107
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": "H,,U,",
+      "value": 144
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": "H,,U,",
+      "value": 89
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": ",,U,",
+      "value": 99
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": "H,,U,",
+      "value": 189
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": "H,,U,",
+      "value": 33
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": ",,U,",
+      "value": 133
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": "H,,U,",
+      "value": 200
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": "H,,U,",
+      "value": 67
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": ",,U,",
+      "value": 115
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": "H,,U,",
+      "value": 200
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": "H,,U,",
+      "value": 61
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00000153",
+      "attributes": ",,W,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00000153",
+      "attributes": ",,W,",
+      "value": 72
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00000154",
+      "attributes": ",,W,",
+      "value": 189
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00000154",
+      "attributes": ",,W,",
+      "value": 44
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00003739",
+      "attributes": ",,R,",
+      "value": 149
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00003739",
+      "attributes": ",,R,",
+      "value": 64
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00003759",
+      "attributes": ",,R,",
+      "value": 180
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00003759",
+      "attributes": ",,R,",
+      "value": 104
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013728",
+      "attributes": ",,W,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013728",
+      "attributes": ",,W,2400",
+      "value": 67
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013733",
+      "attributes": ",,W,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013733",
+      "attributes": ",,W,2400",
+      "value": 50
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013737",
+      "attributes": ",,W,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013737",
+      "attributes": ",,W,2400",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013740",
+      "attributes": ",,W,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013740",
+      "attributes": ",,W,2400",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013741",
+      "attributes": ",,W,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013741",
+      "attributes": ",,W,2400",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013743",
+      "attributes": ",,W,2400",
+      "value": 167
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013743",
+      "attributes": ",,W,2400",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013750",
+      "attributes": ",,W,",
+      "value": 189
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013750",
+      "attributes": ",,W,",
+      "value": 100
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013762",
+      "attributes": ",,W,",
+      "value": 200
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013762",
+      "attributes": ",,W,",
+      "value": 67
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013769",
+      "attributes": ",,W,",
+      "value": 178
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013769",
+      "attributes": ",,W,",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013773",
+      "attributes": ",,W,",
+      "value": 144
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013773",
+      "attributes": ",,W,",
+      "value": 33
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013877",
+      "attributes": ",,W,2400",
+      "value": 156
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013877",
+      "attributes": ",,W,2400",
+      "value": 50
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093736",
+      "attributes": ",,W,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093736",
+      "attributes": ",,W,2400",
+      "value": 78
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093738",
+      "attributes": ",,W,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093738",
+      "attributes": ",,W,2400",
+      "value": 44
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093739",
+      "attributes": ",,W,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093739",
+      "attributes": ",,W,2400",
+      "value": 72
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093741",
+      "attributes": ",,W,",
+      "value": 178
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093741",
+      "attributes": ",,W,",
+      "value": 56
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093773",
+      "attributes": ",,W,2400",
+      "value": 189
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093773",
+      "attributes": ",,W,2400",
+      "value": 61
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093775",
+      "attributes": ",,W,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093775",
+      "attributes": ",,W,",
+      "value": 72
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440021",
+      "attributes": ",,7,0600",
+      "value": 167
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440021",
+      "attributes": ",Z,7,0600",
+      "value": 56
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 50
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 72
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 39
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 139
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 17
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": -6
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 61
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 106
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 206
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 133
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 6
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 144
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 61
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442208",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442208",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 61
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 206
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": -6
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 144
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 139
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 0
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 167
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 22
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445204",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": 156
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": -17
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 61
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445853",
+      "attributes": ",,7,0700",
+      "value": 156
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445853",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": 128
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": -33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 139
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 78
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 78
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 50
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": 156
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 217
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446712",
+      "attributes": ",,7,0800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446712",
+      "attributes": ",,7,0800",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 172
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 17
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 156
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 11
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 56
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 0
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 83
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 61
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 211
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 56
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 67
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 22
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448941",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448941",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449025",
+      "attributes": ",,7,1700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449025",
+      "attributes": ",,7,1700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449151",
+      "attributes": ",,7,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449151",
+      "attributes": ",,7,2400",
+      "value": 56
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449186",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449186",
+      "attributes": ",,7,0700",
+      "value": 6
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449301",
+      "attributes": ",,7,0700",
+      "value": 156
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449301",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VASH",
+      "attributes": ",,U,",
+      "value": 115
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VASH",
+      "attributes": "H,,U,",
+      "value": 161
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VASH",
+      "attributes": "H,,U,",
+      "value": 67
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": ",,U,",
+      "value": 122
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": "H,,U,",
+      "value": 172
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": "H,,U,",
+      "value": 89
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": ",,U,",
+      "value": 127
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": "H,,U,",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": "H,,U,",
+      "value": 78
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": ",,U,",
+      "value": 88
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": "H,,U,",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": "H,,U,",
+      "value": 17
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": ",,U,",
+      "value": 118
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": "H,,U,",
+      "value": 211
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": "H,,U,",
+      "value": 56
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": ",,U,",
+      "value": 117
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": "H,,U,",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": "H,,U,",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00000153",
+      "attributes": ",,W,",
+      "value": 206
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00000153",
+      "attributes": ",,W,",
+      "value": 39
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00000154",
+      "attributes": ",,W,",
+      "value": 211
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00000154",
+      "attributes": ",,W,",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00003739",
+      "attributes": ",,R,",
+      "value": 170
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00003739",
+      "attributes": ",,R,",
+      "value": 65
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00003759",
+      "attributes": ",,R,",
+      "value": 182
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00003759",
+      "attributes": ",,R,",
+      "value": 106
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013728",
+      "attributes": ",,W,2400",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013728",
+      "attributes": ",,W,2400",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013733",
+      "attributes": ",,W,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013733",
+      "attributes": ",,W,2400",
+      "value": 33
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013737",
+      "attributes": ",,W,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013737",
+      "attributes": ",,W,2400",
+      "value": 78
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013740",
+      "attributes": ",,W,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013740",
+      "attributes": ",,W,2400",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013741",
+      "attributes": ",,W,2400",
+      "value": 211
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013741",
+      "attributes": ",,W,2400",
+      "value": 61
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013743",
+      "attributes": ",,W,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013743",
+      "attributes": ",,W,2400",
+      "value": 39
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013750",
+      "attributes": ",,W,",
+      "value": 200
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013750",
+      "attributes": ",,W,",
+      "value": 83
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013762",
+      "attributes": ",,W,",
+      "value": 217
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013762",
+      "attributes": ",,W,",
+      "value": 67
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013769",
+      "attributes": ",,W,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013769",
+      "attributes": ",,W,",
+      "value": 72
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013773",
+      "attributes": ",,W,",
+      "value": 150
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013773",
+      "attributes": ",,W,",
+      "value": 39
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013877",
+      "attributes": ",,W,2400",
+      "value": 156
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013877",
+      "attributes": ",,W,2400",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093736",
+      "attributes": ",,W,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093736",
+      "attributes": ",,W,2400",
+      "value": 72
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093738",
+      "attributes": ",,W,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093738",
+      "attributes": ",,W,2400",
+      "value": 28
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093739",
+      "attributes": ",,W,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093739",
+      "attributes": ",,W,2400",
+      "value": 61
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093741",
+      "attributes": ",,W,",
+      "value": 189
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093741",
+      "attributes": ",,W,",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093773",
+      "attributes": ",,W,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093773",
+      "attributes": ",,W,2400",
+      "value": 44
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093775",
+      "attributes": ",,W,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093775",
+      "attributes": ",,W,",
+      "value": 50
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440021",
+      "attributes": ",,7,0600",
+      "value": 178
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440021",
+      "attributes": ",Z,7,0600",
+      "value": 56
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 50
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 111
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 144
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": -6
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 78
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 56
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 0
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 111
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 61
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 50
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 172
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 61
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": -6
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 156
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444410",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444410",
+      "attributes": ",,7,0700",
+      "value": -39
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 50
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 222
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 6
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 6
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 161
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 67
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 211
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 83
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445204",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445204",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 6
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": 150
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": -17
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 89
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445853",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445853",
+      "attributes": ",,7,0700",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": 122
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": 17
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 89
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446173",
+      "attributes": ",,7,0800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446173",
+      "attributes": ",,7,0800",
+      "value": -11
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 183
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 83
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": 161
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": 44
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446712",
+      "attributes": ",,7,0800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446712",
+      "attributes": ",,7,0800",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 172
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 44
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 39
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 189
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 61
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 222
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 128
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 178
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 211
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 106
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 50
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 222
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 111
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 211
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 39
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 117
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448941",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448941",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449025",
+      "attributes": ",,7,1700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449025",
+      "attributes": ",,7,1700",
+      "value": 72
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449151",
+      "attributes": ",,7,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449151",
+      "attributes": ",,7,2400",
+      "value": 106
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449186",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449186",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449215",
+      "attributes": ",,7,0900",
+      "value": 172
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449215",
+      "attributes": ",,7,0900",
+      "value": 61
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449301",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449301",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VASH",
+      "attributes": ",,U,",
+      "value": 148
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VASH",
+      "attributes": "H,,U,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VASH",
+      "attributes": "H,,U,",
+      "value": 111
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": ",,U,",
+      "value": 138
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": "H,,U,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": "H,,U,",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": ",,U,",
+      "value": 151
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": "H,,U,",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": "H,,U,",
+      "value": 122
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": ",,U,",
+      "value": 144
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": "H,,U,",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": "H,,U,",
+      "value": 67
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": ",,U,",
+      "value": 161
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": "H,,U,",
+      "value": 228
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": "H,,U,",
+      "value": 106
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": ",,U,",
+      "value": 159
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": "H,,U,",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": "H,,U,",
+      "value": 106
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00000153",
+      "attributes": ",,W,",
+      "value": 211
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00000153",
+      "attributes": ",,W,",
+      "value": 117
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00000154",
+      "attributes": ",,W,",
+      "value": 222
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00000154",
+      "attributes": ",,W,",
+      "value": 83
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00003739",
+      "attributes": ",,R,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00003739",
+      "attributes": ",,R,",
+      "value": 86
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00003759",
+      "attributes": ",,R,",
+      "value": 187
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00003759",
+      "attributes": ",,R,",
+      "value": 104
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013728",
+      "attributes": ",,W,2400",
+      "value": 211
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013728",
+      "attributes": ",,W,2400",
+      "value": 94
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013733",
+      "attributes": ",,W,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013733",
+      "attributes": ",,W,2400",
+      "value": 94
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013737",
+      "attributes": ",,W,2400",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013737",
+      "attributes": ",,W,2400",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013740",
+      "attributes": ",,W,2400",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013740",
+      "attributes": ",,W,2400",
+      "value": 106
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013741",
+      "attributes": ",,W,2400",
+      "value": 228
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013741",
+      "attributes": ",,W,2400",
+      "value": 83
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013743",
+      "attributes": ",,W,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013743",
+      "attributes": ",,W,2400",
+      "value": 94
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013750",
+      "attributes": ",,W,",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013750",
+      "attributes": ",,W,",
+      "value": 122
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013762",
+      "attributes": ",,W,",
+      "value": 233
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013762",
+      "attributes": ",,W,",
+      "value": 94
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013769",
+      "attributes": ",,W,",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013769",
+      "attributes": ",,W,",
+      "value": 106
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013773",
+      "attributes": ",,W,",
+      "value": 222
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013773",
+      "attributes": ",,W,",
+      "value": 78
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013877",
+      "attributes": ",,W,2400",
+      "value": 239
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013877",
+      "attributes": ",,W,2400",
+      "value": 72
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093736",
+      "attributes": ",,W,2400",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093736",
+      "attributes": ",,W,2400",
+      "value": 111
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093738",
+      "attributes": ",,W,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093738",
+      "attributes": ",,W,2400",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093739",
+      "attributes": ",,W,2400",
+      "value": 156
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093739",
+      "attributes": ",,W,2400",
+      "value": 72
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093741",
+      "attributes": ",,W,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093741",
+      "attributes": ",,W,",
+      "value": 100
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093773",
+      "attributes": ",,W,2400",
+      "value": 217
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093773",
+      "attributes": ",,W,2400",
+      "value": 111
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093775",
+      "attributes": ",,W,",
+      "value": 222
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093775",
+      "attributes": ",,W,",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440021",
+      "attributes": ",,7,0600",
+      "value": 239
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440021",
+      "attributes": ",Z,7,0600",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 156
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 189
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 133
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 89
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 72
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 106
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 133
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 217
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 150
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 222
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 217
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 78
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442208",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442208",
+      "attributes": ",,7,0700",
+      "value": 106
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 128
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 228
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 222
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 222
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 72
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": 100
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 228
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 78
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 156
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444410",
+      "attributes": ",,7,0700",
+      "value": 222
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444410",
+      "attributes": ",,7,0700",
+      "value": 72
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 128
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 94
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 178
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 89
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 150
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 233
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 100
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445204",
+      "attributes": ",,7,0700",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445204",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 100
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": 189
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": 33
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 83
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": 144
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": 33
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 172
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446173",
+      "attributes": ",,7,0800",
+      "value": 217
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446173",
+      "attributes": ",,7,0800",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 139
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": 89
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 61
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 228
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 72
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 222
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 228
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 100
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 83
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 72
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 150
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 228
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 61
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 133
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 222
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 144
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 94
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 161
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 139
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 228
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 133
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 156
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448941",
+      "attributes": ",,7,0700",
+      "value": 217
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448941",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449025",
+      "attributes": ",,7,1700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449025",
+      "attributes": ",,7,1700",
+      "value": 128
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449151",
+      "attributes": ",,7,2400",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449151",
+      "attributes": ",,7,2400",
+      "value": 144
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449186",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449186",
+      "attributes": ",,7,0700",
+      "value": 67
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449215",
+      "attributes": ",,7,0900",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449215",
+      "attributes": ",,7,0900",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00449301",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00449301",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VASH",
+      "attributes": ",,U,",
+      "value": 139
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VASH",
+      "attributes": "H,,U,",
+      "value": 161
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VASH",
+      "attributes": "H,,U,",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": ",,U,",
+      "value": 166
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": "H,,U,",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VBAC",
+      "attributes": "H,,U,",
+      "value": 144
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": ",,U,",
+      "value": 133
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": "H,,U,",
+      "value": 150
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VCRA",
+      "attributes": "H,,U,",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": ",,U,",
+      "value": 144
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": "H,,U,",
+      "value": 189
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VFVA",
+      "attributes": "H,,U,",
+      "value": 89
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": ",,U,",
+      "value": 191
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": "H,,U,",
+      "value": 228
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VGDR",
+      "attributes": "H,,U,",
+      "value": 167
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TAVG",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": ",,U,",
+      "value": 170
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": "H,,U,",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USR0000VJAM",
+      "attributes": "H,,U,",
+      "value": 139
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00000153",
+      "attributes": ",,W,",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00000153",
+      "attributes": ",,W,",
+      "value": 128
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00000154",
+      "attributes": ",,W,",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00000154",
+      "attributes": ",,W,",
+      "value": 167
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00003739",
+      "attributes": ",,R,",
+      "value": 209
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00003739",
+      "attributes": ",,R,",
+      "value": 123
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00003759",
+      "attributes": ",,R,",
+      "value": 163
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00003759",
+      "attributes": ",,R,",
+      "value": 131
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013728",
+      "attributes": ",,W,2400",
+      "value": 167
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013728",
+      "attributes": ",,W,2400",
+      "value": 133
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013733",
+      "attributes": ",,W,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013733",
+      "attributes": ",,W,2400",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013737",
+      "attributes": ",,W,2400",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013737",
+      "attributes": ",,W,2400",
+      "value": 178
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013740",
+      "attributes": ",,W,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013740",
+      "attributes": ",,W,2400",
+      "value": 144
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013741",
+      "attributes": ",,W,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013741",
+      "attributes": ",,W,2400",
+      "value": 122
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013743",
+      "attributes": ",,W,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013743",
+      "attributes": ",,W,2400",
+      "value": 111
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013750",
+      "attributes": ",,W,",
+      "value": 211
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013750",
+      "attributes": ",,W,",
+      "value": 178
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013762",
+      "attributes": ",,W,",
+      "value": 239
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013762",
+      "attributes": ",,W,",
+      "value": 189
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013769",
+      "attributes": ",,W,",
+      "value": 222
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013769",
+      "attributes": ",,W,",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013773",
+      "attributes": ",,W,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013773",
+      "attributes": ",,W,",
+      "value": 89
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00013877",
+      "attributes": ",,W,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00013877",
+      "attributes": ",,W,2400",
+      "value": 61
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093736",
+      "attributes": ",,W,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093736",
+      "attributes": ",,W,2400",
+      "value": 133
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093738",
+      "attributes": ",,W,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093738",
+      "attributes": ",,W,2400",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093739",
+      "attributes": ",,W,2400",
+      "value": 222
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093739",
+      "attributes": ",,W,2400",
+      "value": 117
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093741",
+      "attributes": ",,W,",
+      "value": 206
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093741",
+      "attributes": ",,W,",
+      "value": 139
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093773",
+      "attributes": ",,W,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093773",
+      "attributes": ",,W,2400",
+      "value": 156
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USW00093775",
+      "attributes": ",,W,",
+      "value": 194
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USW00093775",
+      "attributes": ",,W,",
+      "value": 150
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440021",
+      "attributes": ",,7,0600",
+      "value": 217
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440021",
+      "attributes": ",Z,7,0600",
+      "value": 61
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 211
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440187",
+      "attributes": ",,7,0800",
+      "value": 100
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440243",
+      "attributes": ",,7,0700",
+      "value": 89
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440327",
+      "attributes": ",,7,1800",
+      "value": 100
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440735",
+      "attributes": ",,7,0800",
+      "value": 0
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00440766",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441082",
+      "attributes": ",,7,0700",
+      "value": -6
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441209",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 178
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441322",
+      "attributes": ",,7,0800",
+      "value": 122
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441593",
+      "attributes": ",,7,0800",
+      "value": 106
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 206
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441606",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441614",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441692",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441746",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441825",
+      "attributes": ",,7,0700",
+      "value": -11
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 144
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00441999",
+      "attributes": ",,7,0700",
+      "value": 61
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442009",
+      "attributes": ",,7,0900",
+      "value": 72
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442044",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442142",
+      "attributes": ",,7,0700",
+      "value": 89
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442208",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442208",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442245",
+      "attributes": ",,7,2400",
+      "value": 39
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 206
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442400",
+      "attributes": ",,7,0700",
+      "value": 117
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00442790",
+      "attributes": ",,7,0800",
+      "value": 117
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443204",
+      "attributes": ",,7,0700",
+      "value": 106
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443213",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 206
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443229",
+      "attributes": ",,7,0600",
+      "value": 50
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": 144
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443272",
+      "attributes": ",,7,0700",
+      "value": 0
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443310",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00443640",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444128",
+      "attributes": ",,7,0700",
+      "value": -6
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444410",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444410",
+      "attributes": ",,7,0700",
+      "value": 17
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 172
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444414",
+      "attributes": ",,7,0800",
+      "value": 106
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444777",
+      "attributes": ",,7,0700",
+      "value": 0
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444876",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 167
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00444909",
+      "attributes": ",,7,0830",
+      "value": 100
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445050",
+      "attributes": ",,7,1800",
+      "value": 78
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445096",
+      "attributes": ",,7,0800",
+      "value": 28
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445204",
+      "attributes": ",,7,0700",
+      "value": 178
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445204",
+      "attributes": ",,7,0700",
+      "value": 100
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445300",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 150
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445453",
+      "attributes": ",,7,0700",
+      "value": 33
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445595",
+      "attributes": ",,7,0600",
+      "value": 39
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445690",
+      "attributes": ",,7,0700",
+      "value": 11
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445853",
+      "attributes": ",,7,0700",
+      "value": 172
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445853",
+      "attributes": ",,7,0700",
+      "value": 89
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": 106
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00445880",
+      "attributes": ",,7,2400",
+      "value": -22
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 144
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446125",
+      "attributes": ",,7,0700",
+      "value": 39
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446147",
+      "attributes": ",,7,2400",
+      "value": 100
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446161",
+      "attributes": ",,7,1700",
+      "value": 111
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446173",
+      "attributes": ",,7,0800",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446173",
+      "attributes": ",,7,0800",
+      "value": 6
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 194
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446475",
+      "attributes": ",,7,1600",
+      "value": 128
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": 178
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446626",
+      "attributes": ",,7,0800",
+      "value": -11
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446656",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446712",
+      "attributes": ",,7,0800",
+      "value": 167
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446712",
+      "attributes": ",,7,0800",
+      "value": 72
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446955",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 178
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00446999",
+      "attributes": ",,7,0800",
+      "value": 67
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 200
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447174",
+      "attributes": ",,7,0700",
+      "value": 0
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447278",
+      "attributes": ",,7,0700",
+      "value": 28
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447338",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447506",
+      "attributes": ",,7,0700",
+      "value": -6
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 172
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447904",
+      "attributes": ",,7,0800",
+      "value": 50
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447925",
+      "attributes": ",,7,0700",
+      "value": 56
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447985",
+      "attributes": ",,7,0600",
+      "value": 94
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 194
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00447998",
+      "attributes": ",,7,2400",
+      "value": 56
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448022",
+      "attributes": ",,7,0700",
+      "value": 44
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 172
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448062",
+      "attributes": ",,7,0800",
+      "value": 89
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 183
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448084",
+      "attributes": ",,7,2400",
+      "value": 61
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 161
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448170",
+      "attributes": ",,7,0700",
+      "value": 22
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448192",
+      "attributes": ",,7,2400",
+      "value": 94
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 194
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448680",
+      "attributes": ",,7,0700",
+      "value": 122
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 167
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448737",
+      "attributes": ",,7,0700",
+      "value": 83
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 200
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448800",
+      "attributes": ",,7,2400",
+      "value": 83
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 189
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448829",
+      "attributes": ",,7,1800",
+      "value": 117
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 233
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMIN",
+      "station": "GHCND:USC00448837",
+      "attributes": ",,7,0800",
+      "value": 133
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "datatype": "TMAX",
+      "station": "GHCND:USC00448894",
+      "attributes": ",,7,1800",
+      "value": 194
+    }
+  ]
+}

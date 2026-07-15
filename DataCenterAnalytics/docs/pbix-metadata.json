@@ -1,0 +1,88 @@
+{
+  "visuals": [
+    {
+      "name": "Inventory Map",
+      "visual_type": "Map",
+      "fields": ["lat", "lon", "state", "sqft"],
+      "measures": ["facility_count", "avg_facility_sqft"],
+      "datasets_used": ["im3_datacenters_20260611_1634.csv"],
+      "python_visual": false,
+      "slicers": ["state"],
+      "conditional_formatting": false,
+      "parameters_used": [],
+      "interactions": ["Demand Chart"],
+      "refresh_frequency": "daily",
+      "notes": "Shows facility locations and sizes."
+    },
+    {
+      "name": "Demand Chart",
+      "visual_type": "Line Chart",
+      "fields": ["Date"],
+      "measures": ["total_demand_mwh"],
+      "datasets_used": ["eia_daily_20260622_1434.csv"],
+      "python_visual": false,
+      "slicers": ["state"],
+      "conditional_formatting": true,
+      "parameters_used": ["demand_threshold"],
+      "interactions": ["Inventory Map", "Generation Chart"],
+      "refresh_frequency": "daily",
+      "notes": "Shows daily demand trends."
+    },
+    {
+      "name": "Generation Chart",
+      "visual_type": "Line Chart",
+      "fields": ["Date"],
+      "measures": ["total_generation_mwh"],
+      "datasets_used": ["eia_daily_20260622_1434.csv"],
+      "python_visual": false,
+      "slicers": ["state"],
+      "conditional_formatting": false,
+      "parameters_used": [],
+      "interactions": ["Demand Chart"],
+      "refresh_frequency": "daily",
+      "notes": "Shows daily generation trends."
+    },
+    {
+      "name": "Climate-Facility Dynamics",
+      "visual_type": "Python Visual",
+      "fields": ["TAVG", "TMAX", "TMIN", "sqft", "state"],
+      "measures": ["avg_temperature", "max_temperature", "min_temperature"],
+      "datasets_used": ["noaa_daily_20260611_1009.csv", "im3_datacenters_20260611_1634.csv"],
+      "python_visual": true,
+      "slicers": ["state"],
+      "conditional_formatting": false,
+      "parameters_used": ["temperature_sensitivity"],
+      "interactions": ["Inventory Map"],
+      "refresh_frequency": "daily",
+      "notes": "Python scatter plot showing climate vs facility size."
+    },
+    {
+      "name": "Temperature Matrix",
+      "visual_type": "Matrix",
+      "fields": ["Date", "state"],
+      "measures": ["avg_temperature", "max_temperature", "min_temperature"],
+      "datasets_used": ["noaa_daily_20260611_1009.csv"],
+      "python_visual": false,
+      "slicers": ["state"],
+      "conditional_formatting": true,
+      "parameters_used": [],
+      "interactions": [],
+      "refresh_frequency": "daily",
+      "notes": "Matrix showing temperature trends by state."
+    },
+    {
+      "name": "Grid Power Treemap",
+      "visual_type": "Treemap",
+      "fields": ["state"],
+      "measures": ["total_demand_mwh", "total_generation_mwh", "generation_to_demand_ratio"],
+      "datasets_used": ["eia_daily_20260622_1434.csv", "states_to_grids.csv"],
+      "python_visual": false,
+      "slicers": ["state"],
+      "conditional_formatting": true,
+      "parameters_used": ["ratio_threshold"],
+      "interactions": ["Demand Chart", "Generation Chart"],
+      "refresh_frequency": "daily",
+      "notes": "Treemap showing grid operator performance."
+    }
+  ]
+}

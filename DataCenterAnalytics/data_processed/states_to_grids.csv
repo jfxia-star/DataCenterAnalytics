@@ -1,0 +1,52 @@
+State,Grid_Operator
+Alabama,SERC
+Alaska,ASCG
+Arizona,WECC
+Arkansas,SPP
+California,CAISO
+Colorado,WECC
+Connecticut,ISO-NE
+Delaware,PJM
+District of Columbia,PJM
+Florida,FRCC
+Georgia,SERC
+Hawaii,HECO
+Idaho,WECC
+Illinois,PJM
+Indiana,PJM
+Iowa,MISO
+Kansas,SPP
+Kentucky,PJM
+Louisiana,MISO
+Maine,ISO-NE
+Maryland,PJM
+Massachusetts,ISO-NE
+Michigan,PJM
+Minnesota,MISO
+Mississippi,SERC
+Missouri,MISO
+Montana,WECC
+Nebraska,SPP
+Nevada,WECC
+New Hampshire,ISO-NE
+New Jersey,PJM
+New Mexico,WECC
+New York,NYISO
+North Carolina,PJM
+North Dakota,MISO
+Ohio,PJM
+Oklahoma,SPP
+Oregon,WECC
+Pennsylvania,PJM
+Rhode Island,ISO-NE
+South Carolina,SERC
+South Dakota,MISO
+Tennessee,PJM
+Texas,ERCOT
+Utah,WECC
+Vermont,ISO-NE
+Virginia,PJM
+Washington,WECC
+West Virginia,PJM
+Wisconsin,MISO
+Wyoming,WECC
